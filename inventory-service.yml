@@ -1,0 +1,16 @@
+
+spring:
+  application:
+    name: customer-serviceazeaze
+  datasource:
+    username: ismailazezae
+    password: ismailazeaze
+    url: jdbc:postgresql://localhost:5432/microservicedbzqdzafa
+    driver-class-name: org.postgresql.Driverazezae
+  jpa.hibernate.ddl-auto: createazeazeza
+
+
+
+
+
+#spring.profiles.active=dev
